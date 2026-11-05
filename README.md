@@ -1,17 +1,24 @@
 # Hi, I'm Bhavika! 👋
 
-I'm a **Computer Science student at San Jose State University** building at the intersection of **software engineering, AI/ML and real world impact**.
+I'm a **Computer Science student at San Jose State University** interested in software engineering and AI/ML. I love turning ideas into real projects whether that's through research, hackathons or building tools for communities.
 
-🔬 I'm an **Undergraduate Research Assistant at SJSU's MICoSys Lab**, where I work on machine learning research and a **Student Researcher with the San Jose Public Library**, exploring NLP/ML methods for analyzing qualitative research data.
-
-💻 I **co-lead and develop MindWell SSF**, a community mental health resource platform being built with community stakeholders, and I'm an **Instructional Student Assistant in SJSU's Computer Science Department**.
-
-🤖 Through **AI4ALL Ignite**, my team built **EquiBirth AI**, analyzing ~24.9M U.S. birth records to study preterm birth risk and maternal health inequities. Our project was nominated for the **AI4ALL Student Symposium**.
-
-🚀 I love building under pressure through hackathons. Most recently, my project **Canary** was selected to present at **AI for Greater Good Demo Day** and is currently ranked in the **top 2** during judging.
-
-🌱 Outside of building, I lead technical and community initiatives as **Hackathon Development Lead for SJSU's Responsible Computing Club** and **SWE++ Committee Chair**, where I help introduce younger students to computer science.
-
-I'm always learning, building and looking for problems worth solving.
+I'm especially interested in using technology to solve problems that actually matter and I'm always looking for something new to build, learn, or improve.
 
 [LinkedIn](https://www.linkedin.com/in/bhavika-kothapalli) · [Email](mailto:bhavika.kothapalli@sjsu.edu)
+
+## 🌱 What I Do
+
+- 🔬 **Undergraduate Research Assistant @ SJSU MICoSys Lab** — Work on machine learning research, experimentation, analysis and evaluation.
+
+- 💻 **Project Co Lead & Developer @ MindWell SSF** — Building a community mental health resource platform with search, filtering, accessibility and crisis support features in collaboration with community stakeholders.
+
+- 📊 **Student Researcher @ San Jose Public Library** — Explore NLP and ML approaches for finding patterns in qualitative research data from South Asian tech entrepreneurs and innovators.
+
+
+- 🤖 **AI4ALL Ignite Accelerator Fellow** — Co-built **EquiBirth AI**, analyzing ~24.9M U.S. birth records to study preterm birth risk and maternal health inequities; nominated for the AI4ALL Student Symposium.
+
+- 🚀 **Hackathon Development Lead @ Responsible Computing Club** — Lead the development of RCC's Responsible Innovation Hackathon, from challenge design and judging structure to industry and sponsorship outreach.
+
+- 👩‍💻 **SWE++ Committee Chair @ Society of Women Engineers** — Develop and teach beginner friendly computer science curriculum for middle school students.
+
+- 🏢 **Former IT Intern @ Mitsubishi Power** — Gained hands on exposure to enterprise IT, information security, networking, data centers and business applications.
