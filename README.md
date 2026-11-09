@@ -4,7 +4,7 @@ I'm a **Computer Science student at San Jose State University** interested in so
 
 I'm especially interested in using technology to solve problems that actually matter and I'm always looking for something new to build, learn, or improve.
 
-[LinkedIn](https://www.linkedin.com/in/bhavika-kothapalli) · [Email](mailto:bhavika.kothapalli@sjsu.edu)
+[LinkedIn](https://www.linkedin.com/in/bhavika-kothapalli) · [Email](mailto:bhavika.kothapalli@sjsu.edu) · [Website](https://bhavika-kothapalli.vercel.app/#about)
 
 ## 🌱 What I Do
 
